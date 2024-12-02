@@ -1,24 +1,7 @@
-# Important Instructions for all the Attendees
+# Microsoft 365 Saturday Bangalore 2024 
+## Important Instructions for Attendees of M365 Saturday BLR 2024
 
-## Venue
-
-1. Please note that this time, our venue is changed from the usual `Microsoft Prestige Ferns Office` to `Microsoft Luxor North`.
-1. `Microsoft Luxor North` is located inside Bagmane Capital Park
-    - Google Map may confuse you with the exact location, by showing the Back Gate.  **You must enter from the Front Gate, which is meant for Visitors**.  The Back Gate only allows entry for the Employees who are working at `Bagmane Capital Park`
-    - The Front Gate is located at Outer Ring Road
-1. Parking Facility 
-
-`Presentation Table goes here, with links to PDF/PPT`
-
-## Event Photos
-
-`Facebook Album of M365BLR goes here`
-
-## LinkedIn Group
-
-`Share LinkedIn Group link`
-
-## Contact Us
-
-Reach us on Twitter [@m365blr](https://twitter.com/m365blr "Microsoft365 Bangalore") (Hash tag #M365BLR).
-
+1. The venue has limited capacity for 200 seats.  The entry will be based on First Come First Serve basis. You must show your "individual" [TownScript](https://www.townscript.com/) registration at Security Check of Bagmane Campus. You will be also asked for Govt ID proof by security. Once the capacity reaches 200, your entry will be denied inside campus. 
+2. The venue for this event is **Microsoft R&D Office (7th Floor)** located inside **Luxor North building** of Bagmane Capital IT Park. _Searching on Google Map may confuse you by showing the Back Gate entry. Do not use the Back Gate, as it is only meant for Employees working at Bagmane Capital IT Park._  You **must use the Main/Front Gate** of "**Bagmane World Technology Centre**" to enter the IT Park.  The security will guide you with the route towards Microsoft Luxor North building.  You must use this link (https://maps.app.goo.gl/4oh391JtPQd86hycA) for the correct entry gate. As the IT park is huge and having more security measures, please anticipate around 15-30 minutes of time to reach from Main/Front Gate to Microsoft Building (7th floor).
+3. Parking for 4-Wheelers and 2-Wheelers will be available at Microsoft Luxor North building basement. However, **it is mandatory for the car users to provide their vehicle details**.  If you are getting your car, then **you must submit this form (https://forms.office.com/r/T7iLfuyTj2) before Thursday 5-Dec-2024 9pm IST**. Uber/Ola cabs are allowed till Microsoft Luxor North building, but you must get down once at Main/Front Gate security for the registration formalities.
+4. The entire campus is "No Photography" zone.  We don't recommend you to carry your laptops, as this will involve additional security checks.
